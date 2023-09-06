@@ -1,6 +1,5 @@
 import 'dart:typed_data';
 
-import 'package:firstbd233/view/liste_favoris.dart';
 import 'package:firstbd233/view/liste_personne.dart';
 import 'package:firebase_storage/firebase_storage.dart';
 import 'package:firstbd233/constante/constant.dart';
